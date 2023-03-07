@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>დალინკე განცხადება, ბევრი განცხადების შემთხვევაში გამოყავი ის მძიმით</p>  
+        <p>დალინკე განცხადება, ბევრი განცხადებsის შემთხვევაში გამოყავი ის მძიმით</p>  
           <div>
             <textarea rows="10" cols="50"></textarea>
           </div>
